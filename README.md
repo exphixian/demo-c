@@ -1,4 +1,4 @@
-# Katie Learns C
+# $PERSON Learns C
 ## An introduction to C programming
 ### Table of Contents
 * Introduction to C as a programming language
