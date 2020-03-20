@@ -1,14 +1,14 @@
-# $PERSON Learns C
+# Austin Learns C
 ## An introduction to C programming
 ### Table of Contents
-* Introduction to C as a programming language
-* Variables
-* Conditionals
-* Interation
-* I/O
-* Headers (Libraries)
-* Data Sctructures
-* Project
+* [Introduction to C as a programming language](./lessons/1_intro_to_c.md)
+* [Variables](./lessons/2_variables.md)
+* [Conditionals](./lessons/3_conditionals.md)
+* [Interation](./lessons/4_iteration.md)
+* [I/O](./lessons/5_IO.md)
+* [Headers (Libraries)](./lessons/6_headers.md)
+* [Data Sctructures](./lessons/7_data_structures.md)
+* [Project](./lessons/8_project.md)
 
 ### Guide
 * Each assignment should be submitted as a single file in your GitHub repo
