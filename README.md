@@ -1,4 +1,5 @@
-# Austin Learns C
+# Katie Learns C
+# By Austin
 ## An introduction to C programming
 ### Table of Contents
 * [Introduction to C as a programming language](./lessons/1_intro_to_c.md)
